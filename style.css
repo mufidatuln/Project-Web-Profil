@@ -1,0 +1,44 @@
+.bgnav{
+    background-color: #0F4C75;
+}
+
+.font{
+    color: white;
+}
+
+.persen{
+    color: black;
+
+}
+
+.font-size{
+    font-size: larger;
+}
+
+body{
+    background-color: #BBE1FA;
+    padding: auto;
+}
+
+.btn2{
+    background-color: #3282B8;
+}
+
+
+.hobi{
+    background-color: #3282B8;
+    border-radius: 20px;
+}
+.footer{
+    background-color: #0F4C75;
+}
+
+.edu{
+    background-color: white;
+    border-radius: 10px;
+}
+
+.box{
+    display: flex;
+    flex-direction: row;
+}
